@@ -1,0 +1,54 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "TP",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "/",
+      "template": "TP/NOTE Template.md"
+    },
+    {
+      "folder": "KALENDER/JAHRE",
+      "template": "TP/K JAHR Template.md"
+    },
+    {
+      "folder": "KALENDER/MONATE",
+      "template": "TP/K MONAT Template.md"
+    },
+    {
+      "folder": "KALENDER/QUARTALE",
+      "template": "TP/K QUARTAL Template.md"
+    },
+    {
+      "folder": "KALENDER/WOCHEN",
+      "template": "TP/K WOCHE Template.md"
+    },
+    {
+      "folder": "KALENDER/TAGE",
+      "template": "TP/K TAG Template.md"
+    },
+    {
+      "folder": "PROJECTS",
+      "template": "TP/PROJECT Template.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

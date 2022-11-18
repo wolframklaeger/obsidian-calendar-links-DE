@@ -1,0 +1,35 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "YYYY MM DD",
+    "template": "TP/K TAG Template.md",
+    "folder": "KALENDER/TAGE",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "gggg [W]ww",
+    "template": "TP/K WOCHE Template.md",
+    "folder": "KALENDER/WOCHEN",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "YYYY MM",
+    "template": "TP/K MONAT Template.md",
+    "folder": "KALENDER/MONATE",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "YYYY [Q]Q",
+    "template": "TP/K QUARTAL Template.md",
+    "folder": "KALENDER/QUARTALE",
+    "enabled": true
+  },
+  "yearly": {
+    "format": "",
+    "template": "TP/K JAHR Template.md",
+    "folder": "KALENDER/JAHRE",
+    "enabled": true
+  }
+}
