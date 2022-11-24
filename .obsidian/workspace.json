@@ -11,8 +11,12 @@
             "id": "2a15bd1090ade4f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "KALENDER/JAHRE/2022.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "KALENDER/JAHRE/2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "KALENDER/JAHRE/2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,20 +141,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5,
-    "collapsed": true
+    "width": 307.5
   },
   "active": "2a15bd1090ade4f1",
   "lastOpenFiles": [
-    "README_DE.md",
-    "README_EN.md",
-    "KALENDER/JAHRE/2022.md",
     "KALENDER/QUARTALE/2022 Q4.md",
     "KALENDER/MONATE/2022 11.md",
     "KALENDER/WOCHEN/2022 W46.md",
-    "KALENDER/TAGE/2022 11 18.md",
     "KALENDER/TAGE/2022 11 17.md",
-    "NEU/2022 11 17 1447 01.md",
-    "TP/NOTE Template.md"
+    "TP/K JAHR Template.md",
+    "TP/K QUARTAL Template.md",
+    "TP/K MONAT Template.md",
+    "TP/K WOCHE Template.md",
+    "TP/K TAG Template.md",
+    "README_DE.md"
   ]
 }

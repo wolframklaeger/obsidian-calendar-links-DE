@@ -1,11 +1,11 @@
 ![obsidian-calendar-links-DE](cover.png)
 
 # obsidian-calendar-links-DE
-obsidian-calendar-links-de ist ein Vault (Datenordner) für die **Notiz-App Obsidian (Obsidian.md)**, inklusive aller benötigten Erweiterungen, Einstellungen und Vorlagen.
+obsidian-calendar-links-de ist ein Vault (Datenordner) für die **Notiz-App Obsidian (Obsidian.md)**, inklusive aller benötigten Erweiterungen, Einstellungen und Vorlagen - wie in meinem [Blogpost: To-Do-Liste mit Kalender-Links](https://generateclicks.de/to-do-liste-kalender-links/) ausführlich beschrieben.
 
-Je **Kalendertag, -woche, -monat, -quartal, -jahr** kann eine Notiz angelegt werden, die automatisch mit dem restlichen Kalender verlinkt ist.
+Der Obsidian-Vault ist so eingestellt, dass du zu jedem **Kalendertag, -woche, -monat, -quartal, -jahr** eine Notiz anlegen kannst, die *automatisch mit dem restlichen Kalender verlinkt* ist.
 
-Mit jeder Kalendernotiz wird auch eine **To-Do-Liste** erzeugt, gegliedert nach
+Mit jeder solchen **Kalendernotiz** wird auch eine **To-Do-Liste** erzeugt, gegliedert nach
 
 - fällig (heute, diese Woche, ... Jahr)
 - geplant  (...)
@@ -25,7 +25,7 @@ Für das Aufgabenmanagement wird die Obsidian Community-Erweiterung [**Obsidian-
  
 Dies ist **obsidian-calendar-links-DE**, die *deutschsprachige* Version.
  
-Also available as [**English (US) version** (obsidian-calendar-links without DE)](https://github.com/wolframklaeger/obsidian-calendar-links/)
+Also available as [**English (US) version** (obsidian-calendar-links)](https://github.com/wolframklaeger/obsidian-calendar-links/)
 
 Beide Versionen können leicht in andere Sprachen übersetzt werden. Auch die Datumsformate können einfach angepasst werden.
 
